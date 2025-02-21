@@ -24,7 +24,7 @@ Identify and describe at least three key milestones in the evolution of software
       -  This phase introduced a set of principles for software development that prioritized flexibility, customer collaboration, and iterative progress. Agile methodologies, such as Scrum and Kanban, replaced rigid waterfall models, emphasizing             iterative development, customer collaboration, and responding to change
 List and briefly explain the phases of the Software Development Life Cycle.
 
-       1) Planning
+  i) Planning
  – This phase involves defining the project scope, objectives, feasibility, and resource allocation. 
         - It helps in identifying risks and estimating costs and timelines.
         
