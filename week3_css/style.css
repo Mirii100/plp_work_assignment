@@ -1,0 +1,24 @@
+.tbl-data{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 18px;
+    text-align: left;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+th{
+    background-color: grey;
+    color: white;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color:grey;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}
